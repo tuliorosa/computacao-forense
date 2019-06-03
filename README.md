@@ -440,8 +440,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
   * [IPOG (Computação Forense & Perícia Digital)](https://www.ipog.edu.br/curso/tecnologia-da-informacao/computacao-forense--pericia-digital/)
  
   * [UNIFOR (Universidade de Fortaleza)](https://www.unifor.br/web/pos-graduacao/especializacao-em-computacao-forense) 
- 
- 
+  
+  * [BluEAD (EAD de Forense)](https://www.bluead.com.br) 
+     
  
  <h3 id="Noticias"> Notícias</h3>
  
@@ -461,7 +462,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  <h3 id="ListaDePeritos"> LISTA DE PERITOS</h3>
  
  nome, cidade/estado, url currículo, breve de atuação
- 
+ Tulio Rosa, Goiânia/GO, www.TulioRosa.com.br
  
  <h3 id="PrincipasiNomes"> PRINCIPAIS NOMES DA FORENSE NO BRASIL</h3>
  
